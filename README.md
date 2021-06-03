@@ -1,3 +1,5 @@
+### Hi there 👋
+Feel free to ask about anything!
 
 <!--
 **countchrisdo/countchrisdo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,5 +19,3 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CountChrisdo&layout=compact&theme=react)](https://github.com/anuraghazra/github-readme-stats)
 
-### Hi there 👋
-Feel free to ask about anything!
