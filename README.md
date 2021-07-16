@@ -1,5 +1,8 @@
+<div align="center">
+
 ### ✨ Welcome ✨
 
+ 
 I am a motivated and results-driven Video Game & Fullstack Developer seeking employment where my skills can be utilized and grow professionally.
 
 <!--
@@ -43,7 +46,6 @@ Stuff I use
 
 
 -->
-<div align="center">
  
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CountChrisdo&hide=issues&show_icons=true&theme=react)](https://github.com/anuraghazra/github-readme-stats)
 
