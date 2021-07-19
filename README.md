@@ -18,7 +18,7 @@
 - **Operating system** - [Linux - Ubuntu](https://ubuntu.com/) and [Windows 10](https://www.microsoft.com/en-gb/windows/)
 - **Code editor** - [Visual Studio Code](https://code.visualstudio.com/)
 - **Drawing / Graphic Design** - [GIMP](https://www.gimp.org/) and [Photoshop](https://www.adobe.com/products/photoshop/landpa.html?sdid=KKQIN&mv=search&kw=photoshop&s_kwcid=AL!3085!10!79164992492580!79165251442724&ef_id=0930aea27916169c938ace561ca6497a:G:s&msclkid=0930aea27916169c938ace561ca6497a)
-
+- **3D Work** - [Daz3d](https://www.daz3d.com/) and [Blender](https://www.blender.org/)
 ### Stats
  
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CountChrisdo&hide=issues&show_icons=true&theme=react)](https://github.com/anuraghazra/github-readme-stats)
