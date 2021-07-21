@@ -1,9 +1,3 @@
-<div align="center">
-
-# ✨ Welcome ✨
-
-</div>
- 
 ## I am a motivated and results-driven Video Game & Fullstack Developer seeking employment where my skills can be utilized and grow professionally.
 
 <div align="center">
