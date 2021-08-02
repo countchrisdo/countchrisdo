@@ -6,7 +6,7 @@
  
 </div>
 
- - MDVA Photography - Web App to share and find good spots for photography in the North Virginia, DC, Maryland Area
+<!--  - MDVA Photography - Web App to share and find good spots for photography in the North Virginia, DC, Maryland Area -->
  - [Little Place in CyberSpace](https://countchrisdo.itch.io/little-place-in-cyberspace) - Sidescrolling Action Shooter
  
 <!-- ### I’m currently learning
