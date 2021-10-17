@@ -8,7 +8,7 @@
 
 <!--  - MDVA Photography - Web App to share and find good spots for photography in the North Virginia, DC, Maryland Area -->
  - [Little Place in CyberSpace](https://github.com/countchrisdo/Cyberspace) - Sidescrolling Action Shooter
- - [GameHub](https://github.com/ZOandasan/Gamehub) - A ReactApp that host multiple different online games anyone can play
+ - [GameHub](https://github.com/ZOandasan/Gamehub) - A ReactApp that hosts multiple different online games anyone can play
  
 <!-- ### I’m currently learning
  -  -->
