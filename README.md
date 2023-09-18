@@ -18,10 +18,6 @@ Feel free to explore my repositories and reach out if you have any questions or 
  - 🎵 [C32](https://github.com/countchrisdo/C32-Discord-Bot) - A Discord bot and music player
  - 🎮 Twitch RPG - An RPG using Twitch's API to let a streamer enter turnbased battles with their viewers as the playable units
  - 🌐  761st Tank Battalion Website - Working with veterans and their families to create an official Website to Honor the Soldiers of the 761st Tank Battalion in World War II - Paying tribute to their courage and contributions.
-
- 
-<!-- ### I’m currently learning
- -  -->
  
  <div align="center">
  
